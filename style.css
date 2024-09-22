@@ -1,0 +1,42 @@
+body {
+  background-color: antiquewhite;
+}
+.container {
+  background-color: blanchedalmond;
+  width: 90%;
+  margin: 0 auto;
+}
+.header {
+  background-color: aquamarine;
+  height: 100px;
+}
+.nav {
+  background-color: brown;
+  height: 400px;
+  float: left;
+  width: 20%;
+}
+.main {
+  background-color: coral;
+  height: 400px;
+  float: left;
+  width: 60%;
+}
+.right {
+  background-color: chartreuse;
+  height: 400px;
+  width: 20%;
+  float: left;
+}
+.footer {
+  background-color: rgb(75, 79, 165);
+  padding-bottom: 200px;
+}
+li {
+  font-size: 25px;
+  color: yellow;
+  list-style-type: none;
+}
+ul {
+  padding-left: 0px;
+}
